@@ -1,0 +1,9 @@
+{
+  "name": "car_web_app",
+  "version": "0.0.1",
+  "description": "Sample web",
+  "dependencies": {
+    "serialport": "^9.0.1",
+    "socket.io": "^2.0.1"
+  }
+}
